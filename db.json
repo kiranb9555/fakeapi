@@ -1,13 +1,6 @@
 {
     "usersData": [
         {
-            "id": 4195,
-            "name": "Verdhman Shree",
-            "email": "verdh@am.com",
-            "gender": "female",
-            "status": "active"
-        },
-        {
             "id": 4193,
             "name": "Gautam Rana II",
             "email": "rana_ii_gautam@funk.biz",
